@@ -14,5 +14,3 @@
 			});
 		}
 	}
-
-	svgLoad.init('assets/sprites/sprites.html');
